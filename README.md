@@ -1,2 +1,1 @@
-# rollingstone-cover-story-travis-scott
-# rollingstone-cover-story-travis-scott
+https://shoneal.github.io/rollingstone-cover-story-travis-scott/
