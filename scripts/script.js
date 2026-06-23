@@ -39,6 +39,7 @@ document.addEventListener("DOMContentLoaded", () => {
   initializePageTop(
     getImagePath,
     showImage,
+    bodyElements.url.content,
     basicLink,
     personName,
     currentData,
