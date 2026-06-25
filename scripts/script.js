@@ -70,7 +70,7 @@ let ticking = false; // Задержка для скролла
 window.addEventListener("scroll", () => {
   if (!ticking) {
     requestAnimationFrame(() => {
-      switchingStickinessHeader(bodyElements.cardMarker, bodyElements.header); // Липкий выезжающий header
+      switchingStickinessHeader(bodyElements.pageTopMarker, bodyElements.header); // Липкий выезжающий header
 
       ticking = false;
     });
